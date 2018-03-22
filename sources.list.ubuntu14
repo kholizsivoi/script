@@ -1,0 +1,5 @@
+deb http://dl2.foss-id.web.id/ubuntu/ trusty main restricted universe multiverse
+deb http://dl2.foss-id.web.id/ubuntu/ trusty-updates main restricted universe multiverse
+deb http://dl2.foss-id.web.id/ubuntu/ trusty-security main restricted universe multiverse
+deb http://dl2.foss-id.web.id/ubuntu/ trusty-backports main restricted universe multiverse
+deb http://dl2.foss-id.web.id/ubuntu/ trusty-proposed main restricted universe multiverse
